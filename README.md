@@ -1,4 +1,6 @@
-
-<img src="collagev2.webp" width="5660" height="3000" alt="My Photography Collage">
-
-*all pictures taken by me, sarthak tayal. copyright*
+<div align="center">
+  <img src="collagev2.webp" width="5660" height="3000" alt="Photography Collage">
+  <p align="center">
+    <i>𝒶𝓁𝓁 𝒾𝓂𝒶𝑔𝑒𝓈 𝓉𝒶𝓀𝑒𝓃 𝒷𝓎 𝓂𝑒, 𝓈𝒶𝓇𝓉𝒽𝒶𝓀 𝓉𝒶𝓎𝒶𝓁. 𝒸𝑜𝓅𝓎𝓇𝒾𝑔𝒽𝓉</i> I am fascinated with Data Science and Neuroscience/AI(Computer Neuroscience), and want to assist those who struggle in under-resourced communities.
+  </p>
+</div>
