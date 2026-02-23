@@ -4,7 +4,7 @@
     <i>All Pictures are RAW(unedited) and taken by me, Sarthak Tayal. 𝒸𝑜𝓅𝓎𝓇𝒾𝑔𝒽𝓉!</i> 
     
     I am truly fascinated with Data Science and Neuroscience/AI(Computer Neuroscience, basically).
-    I am going to change the world forever.
+    I know I am going to change the world forever.
     
     Moreover, I assist those who are in under-resourced communities with education, 
     aiming to remove the knowledge gap as a resultant of financial burden.
